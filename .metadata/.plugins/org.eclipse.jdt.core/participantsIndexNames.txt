@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+E:\Programming\Java\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\659496844.index
+\springmvcorm\src\main\java
+E:\Programming\Java\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3401220048.index
+\springmvcorm\src\main\java
+E:\Programming\Java\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2848361170.index
+\springmvcorm\src\main\java
+E:\Programming\Java\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1446278970.index
+\springmvc\src\main\java
+E:\Programming\Java\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3141368360.index
+\springmvcorm\src\main\resources
